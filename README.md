@@ -6,8 +6,8 @@ Karen: Make a survey for professors and TAs, send them out, write a readme file,
 
 Ivan: Cognitive maps + interviews, write the deliverables
 
-Louise: write the deliverables
+Louise: Write the deliverables
 
-Nathan: write the deliverables, portfolio
+Nathan: Write the deliverables, portfolio
 
 Osa: Cognitive maps + interviews, write the deliverables
