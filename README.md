@@ -2,12 +2,12 @@
 
 Our work tasks are for stage two:
 
-Karen: Make a survey for professors and TAs, send them out, write a readme file, write the deliverables
+Karen: Survey for professors and TAs, write a readme file, write portfolio
 
 Ivan: Cognitive maps + interviews, write the deliverables
 
 Louise: Write the deliverables
 
-Nathan: Write the deliverables, portfolio
+Nathan: Write the deliverables
 
 Osa: Cognitive maps + interviews, write the deliverables
